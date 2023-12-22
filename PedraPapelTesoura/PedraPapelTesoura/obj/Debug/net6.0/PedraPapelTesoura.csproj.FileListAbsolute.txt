@@ -1,0 +1,29 @@
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.exe
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.deps.json
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.runtimeconfig.json
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\refint\PedraPapelTesoura.dll
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\alexs\Desktop\Programação e Análise de Sistemas\Porgramas C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\ref\PedraPapelTesoura.dll
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.exe
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.deps.json
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.runtimeconfig.json
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.sourcelink.json
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\refint\PedraPapelTesoura.dll
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\alexs\DiretorioDeEstudos\Estudos-CSharp\ProgramaVScode\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\ref\PedraPapelTesoura.dll
