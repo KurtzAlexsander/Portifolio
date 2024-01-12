@@ -1,3 +1,3 @@
-# Portifolio
+# Programas desenvolvidos
 Pedra papel e tesoura
-Calculadora
+Calculadora(em desenvolvimento)
