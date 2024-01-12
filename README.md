@@ -1,2 +1,2 @@
-# PedraPapelTesoura
-Lógica de um jogo de pedra, papel e tesoura
+# Portifolio
+Pedra papel e tesoura
