@@ -1,3 +1,3 @@
 # Programas desenvolvidos
-Pedra papel e tesoura
-Calculadora(em desenvolvimento)
+Pedra papel e tesoura.
+Calculadora simples.
