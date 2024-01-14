@@ -1,0 +1,15 @@
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\bin\Debug\net6.0\ListaDeCadastro.exe
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\bin\Debug\net6.0\ListaDeCadastro.deps.json
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\bin\Debug\net6.0\ListaDeCadastro.runtimeconfig.json
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\bin\Debug\net6.0\ListaDeCadastro.dll
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\bin\Debug\net6.0\ListaDeCadastro.pdb
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.AssemblyInfoInputs.cache
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.AssemblyInfo.cs
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.sourcelink.json
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.dll
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\refint\ListaDeCadastro.dll
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.pdb
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ListaDeCadastro.genruntimeconfig.cache
+C:\Users\alexs\DiretorioDeEstudos\ProjetosGit\PortifolioGit\ListaDeCadastro\ListaDeCadastro\obj\Debug\net6.0\ref\ListaDeCadastro.dll
